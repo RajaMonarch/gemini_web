@@ -1,0 +1,13 @@
+# Exclude Environment keys
+.env
+.env.local
+
+# Exclude Virtual Environments
+venv/
+venV/
+__pycache__/
+*.pyc
+
+# Exclude system caches
+.DS_Store
+Thumbs.db
